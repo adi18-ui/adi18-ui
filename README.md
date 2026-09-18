@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adi18-ui&theme=tokyonight)](https://git.io/streak-stats)
-<!--
+<!-- 
 **adi18-ui/adi18-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
